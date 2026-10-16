@@ -1,0 +1,14 @@
+.citacao{
+    font-style: italic;
+    background: #fff;
+    padding: 12px 20px;
+    border-radius: 10px;
+    box-shadow: 0px 6px 15px rgba(0, 0, 30, 0.2);
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
